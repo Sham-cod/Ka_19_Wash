@@ -1,0 +1,7 @@
+IMAGE ASSET NOTE
+================
+
+The website preview supplied by the user was used as the visual source for the included local image assets.
+The image crops are stored in assets/images/ so the website does not depend on external image URLs.
+
+If original source photographs are available, replace the files in assets/images/ with those photographs using the same filenames.
