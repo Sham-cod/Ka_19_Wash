@@ -25,6 +25,8 @@ A responsive, professional KA19WASH car-wash website built with plain **HTML, CS
 - WhatsApp booking flow with a booking form
 - Local image assets so the website works without a separate image folder download
 
+C:\Users\Khader Shamraz\OneDrive\文档\KA_19_WASH_UPDATED\script.js
+
 ## 2. Folder structure
 
 ```text

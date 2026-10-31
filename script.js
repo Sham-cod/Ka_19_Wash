@@ -4,12 +4,12 @@
    ========================================================== */
 
 const CONFIG = {
-  whatsappNumber: '918105324126',
-  phoneNumber: '+91 81053 24126',
+  whatsappNumber: '919035166288',
+  phoneNumber: '+91 9035 166 288',
   businessName: 'KA19WASH',
   serviceArea: 'Katipala, Krishnapura, Chokkabettu',
-  instagramUrl: '#',
-  facebookUrl: '#'
+  instagramUrl: 'https://www.instagram.com/ka19_wash?rpxt=MWo4d280d2xrcmVmcQ%3D%3D&utm_source=qr',
+  facebookUrl: 'https://www.facebook.com/profile.php?id=61594525077994&mibextid=wwXIfr&rdid=sUDRSZRlkfV6bLjZ&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Cfs15DCoV%2F%3Fmibextid%3DwwXIfr#'
 };
 
 
