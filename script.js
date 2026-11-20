@@ -416,6 +416,13 @@ $$('.faq-item button').forEach(button => {
         item.classList.add('open');
       }
 
+      $$('.faq-item button').forEach(faqButton => {
+        faqButton.setAttribute(
+          'aria-expanded',
+          faqButton.parentElement.classList.contains('open') ? 'true' : 'false'
+        );
+      });
+
     }
   );
 
